@@ -1,0 +1,18 @@
+[
+  {
+    "type": "lost",
+    "id": "LST-001",
+    "text": "Type: lost | Item: wallet | Color: black | Location: library | Date: 2026-06-24",
+    "item_name": "wallet",
+    "location": "library",
+    "date": "2026-06-24"
+  },
+  {
+    "type": "found",
+    "id": "FND-001",
+    "text": "Type: found | Item: wallet | Color: black | Location: library | Date: 2026-06-24",
+    "item_name": "wallet",
+    "location": "library",
+    "date": "2026-06-24"
+  }
+]

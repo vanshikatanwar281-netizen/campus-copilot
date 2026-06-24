@@ -1,0 +1,32 @@
+[
+  {
+    "id": "CMP-001",
+    "category": "electrical",
+    "issue": "fan not working",
+    "location": "A-203",
+    "priority": "high",
+    "reporter_name": "Alice",
+    "status": "open",
+    "created_at": "2026-06-24 00:17:39"
+  },
+  {
+    "id": "CMP-002",
+    "category": "general",
+    "issue": "i want to file a complaint about hostel water supply",
+    "location": "unknown location",
+    "priority": "medium",
+    "reporter_name": "",
+    "status": "open",
+    "created_at": "2026-06-24 01:08:31"
+  },
+  {
+    "id": "CMP-003",
+    "category": "general",
+    "issue": "How do I get my ID card reissued?",
+    "location": "unknown location",
+    "priority": "medium",
+    "reporter_name": "",
+    "status": "open",
+    "created_at": "2026-06-24 17:58:10"
+  }
+]

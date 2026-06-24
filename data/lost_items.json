@@ -1,0 +1,11 @@
+[
+  {
+    "id": "LST-001",
+    "item": "wallet",
+    "color": "black",
+    "location": "library",
+    "reporter_name": "Alice",
+    "date": "2026-06-24",
+    "status": "lost"
+  }
+]
